@@ -1,1 +1,2 @@
-# Grocery-Management
+# Grocery-Management 
+Grocery Management System 
